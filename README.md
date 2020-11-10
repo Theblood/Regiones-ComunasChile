@@ -32,9 +32,12 @@ pero recuerda un gran poder conlleva una gran responsabilidad por lo que debes a
 de que los controles (select) tengan su id correcto 
 
 
+    <script src="https://cdn.jsdelivr.net/gh/Theblood/Regiones-ComunasChile@main/region_comuna.js" type="text/javascript"></script>
+    <script>
     jQuery(document).ready(function() {
             jQuery('#slcRegion').geoRegionalizacion({
                 regionDependiente: '#slcComuna'
             });
     });
+    </script>
 
