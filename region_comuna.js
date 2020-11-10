@@ -1,5 +1,4 @@
 /**
-   NOMBRE: Bastian NOVOA
    GIT:https://github.com/Theblood
  */
 
