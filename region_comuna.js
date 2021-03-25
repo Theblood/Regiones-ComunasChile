@@ -180,7 +180,7 @@
                         AgregarComuna('LAS CONDES');
                         AgregarComuna('LO BARNECHEA');
                         AgregarComuna('LO ESPEJO');
-                        AgregarComuna('LO PARADO');
+                        AgregarComuna('LO PRADO');
                         AgregarComuna('MACUL');
                         AgregarComuna('MAIPÚ');
                         AgregarComuna('ÑUÑOA');
